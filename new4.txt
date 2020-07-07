@@ -1,5 +1,3 @@
 postData=[{"DeviceSerialNo":"364WLSGX5Q8330XXIXC900I3638140","CaseCodeNumber":"MAX19006449","MaterialQrCodeInfo":[
-	{
-		"QrCodeNumber": "1904001856434"
-	}
+
 ],"MaterialSampleInfo":[]}]&Method=pda.boxing.manusample&UserName=陈素贞-20080701065&OrgNum=MAX
