@@ -2,4 +2,6 @@
 
 ],"MaterialSampleInfo":[]}]&Method=pda.boxing.manusample&UserName=陈素贞-20080701065&OrgNum=MAX
 
-Creating a new branch is quick & simple
+
+Creating a new branch is quick and simple
+
