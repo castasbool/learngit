@@ -1,5 +1,5 @@
-postData=[{"DeviceSerialNo":"364WLSGX5Q8330XXIXC900I3638140","CaseCodeNumber":"MAX19006449","MaterialQrCodeInfo":[
+﻿postData=[{"DeviceSerialNo":"364WLSGX5Q8330XXIXC900I3638140","CaseCodeNumber":"MAX19006449","MaterialQrCodeInfo":[
 
 ],"MaterialSampleInfo":[]}]&Method=pda.boxing.manusample&UserName=陈素贞-20080701065&OrgNum=MAX
 
-Creating a new branch is quick.
+Creating a new branch is quick and simple
